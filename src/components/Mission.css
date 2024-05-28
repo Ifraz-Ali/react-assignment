@@ -1,0 +1,14 @@
+.mission-table-container{
+    display: flex;
+    justify-content: center;
+
+}
+
+table, tr, td, th{
+    border: 1px solid #cfcfcf;
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd){
+    background-color: #ebeaea;
+}
